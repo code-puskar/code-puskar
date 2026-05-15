@@ -280,20 +280,20 @@ Goal: Scalable Circular Fashion Ecosystem
 
 ---
 
-# 🤖 AI Powered Data Analysis Platform
+# 🤖 Smart City Map 
 
 <img align="right" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
 ### 📊 Overview
 
-An intelligent analytics platform integrating AI capabilities with interactive frontend visualization systems.
+An intelligent analytics platform integrating AI capabilities with interactive Map visualization systems.
 
 ### ✨ Core Capabilities
 
-- 📈 Dynamic Data Visualization
-- 🧠 AI Assisted Insights
+- 📈 Dynamic Data Updating
+- 🧠 App Assisted Insights
 - ⚡ FastAPI Backend Integration
-- 🌌 Interactive 3D UI Concepts
+- 🌌 Interactive 3D UI Map Concepts
 - 🔍 Smart Data Interpretation
 - 📊 Dashboard Driven Architecture
 
@@ -302,7 +302,7 @@ An intelligent analytics platform integrating AI capabilities with interactive f
 ```yaml
 Frontend: React + Three.js
 Backend: FastAPI
-Focus: AI Visualization
+Focus: Community Driven Live Issue Tracking and Alert System
 Architecture: API Driven
 Goal: Intelligent Data Interaction
 ```
