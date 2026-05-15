@@ -1,6 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,25:1e293b,50:0ea5e9,75:8b5cf6,100:0f172a&text=Puskar%20Debnath&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20AI%20Explorer%20•%20System%20Builder&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Puskar%20Debnath&fontAlign=50&fontAlignY=38&color=0:020617,15:0f172a,35:1e293b,60:0ea5e9,80:8b5cf6,100:020617&fontColor=ffffff&fontSize=62&animation=fadeIn&desc=Backend%20Engineer%20•%20AI%20Explorer%20•%20System%20Architect&descAlignY=60&descSize=18"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Designing+Scalable+Backend+Systems;Building+Production+Grade+Applications;AI+%2B+Engineering+%2B+Creative+Problem+Solving;Turning+Complexity+Into+Elegant+Systems;Code+Clean.+Scale+Smart.+Build+Impact."/>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:puskardebnath14@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/puskar-debnath">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/code-puskar">
+<img src="https://img.shields.io/github/followers/code-puskar?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=code-puskar&style=for-the-badge&color=0ea5e9"/>
+
+</p>
 
 </div>
 
@@ -8,98 +30,227 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Designing+Scalable+Digital+Systems;Building+Backend+Architectures+That+Matter;AI+%2B+Engineering+%2B+Creative+Problem+Solving;Turning+Ideas+Into+Production+Reality" />
+# 🌌 Digital Identity
+
+</div>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 👨‍💻 Developer Profile
+
+```diff
++ Name       : Puskar Debnath
+# Role       : Backend Engineer
+! Location   : India 🇮🇳
+```
+
+<br>
+
+## 🚀 Mission
+
+> Architecting scalable digital systems that solve  
+> real-world problems through clean engineering,  
+> intelligent architecture, and modern backend practices.
+
+<br>
+
+## ⚡ Current Focus
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Backend_Engineering-0ea5e9?style=for-the-badge&logo=serverless&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI_Integrated_Apps-8b5cf6?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/System_Design-ec4899?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MERN_Architecture-10b981?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scalable_APIs-f59e0b?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+</p>
+
+<br>
+
+## 🧠 Engineering Mindset
+
+```javascript
+const puskar = {
+  code: "clean",
+  architecture: "scalable",
+  learning: "continuous",
+  mindset: "solution oriented",
+  goal: "build impactful systems"
+};
+```
+
+> ### 💭 “Code should not only work —  
+> ### it should scale, evolve, and inspire.”
+
+</td>
+
+<td width="42%" valign="top">
+
+<div align="center">
+
+<img width="100%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-puskar&theme=tokyonight"/>
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🌌 The Developer Behind The Code
-
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHk3N3R3aTR1dmVjYzQ0ZXJ2djl0eGl5NGg1d2o4NWFuNmJ6aXZybiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
-
-```yaml
-Name: Puskar Debnath
-Role: Backend Engineer
-Location: India 🇮🇳
-
-Mission:
-  Building scalable systems that solve real-world problems.
-
-Current Focus:
-  - Backend Engineering
-  - AI Integrated Applications
-  - System Design
-  - MERN Architecture
-  - Scalable APIs
-
-Mindset:
-  "Code should not only work —
-   it should scale, evolve, and inspire."
-```
-
-<br clear="right"/>
-
----
+<div align="center">
 
 # ⚡ Engineering Philosophy
 
+</div>
+
 <div align="center">
 
-| Principle | Meaning |
-|---|---|
-| 🧠 Think Deeply | Understand systems, not just syntax |
-| ⚙️ Build Cleanly | Maintainable > messy shortcuts |
-| 🚀 Scale Smartly | Performance matters |
-| 🔥 Ship Fast | Execution creates momentum |
-| 🤝 Collaborate Well | Great products are team-built |
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧠 Think Deeply
+
+Understand systems, not just syntax.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Build Cleanly
+
+Maintainability over shortcuts.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Scale Smartly
+
+Performance and architecture matter.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔥 Execute Fast
+
+Momentum creates innovation.
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
+
+<div align="center">
 
 # 🛠️ Tech Arsenal
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0ea5e9,100:8b5cf6"/>
+
+</div>
+
+<br>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,express,nestjs,mongodb,postgres,redis,mysql,tailwind,flask,graphql,firebase,nginx,git,github,docker,postman&perline=11" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript,react,nodejs,express,nestjs,mongodb,postgresql,mysql,redis,tailwind,flask,graphql,firebase,nginx,git,github,docker,postman&perline=11"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Backend | Frontend | Database | DevOps |
+|---|---|---|---|
+| Node.js | React | MongoDB | Docker |
+| Express.js | Tailwind CSS | PostgreSQL | Nginx |
+| NestJS | HTML/CSS | MySQL | GitHub |
+| Flask | JavaScript | Redis | Postman |
 
 </div>
 
 ---
 
-# 🚀 Featured Build
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:8b5cf6&height=2"/>
+# 🚀 Featured Project
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0ea5e9,100:8b5cf6"/>
 
 </div>
 
 ## 🏨 Large Scale Hostel Management System
 
-> A production-focused backend ecosystem engineered for scalability, authentication, role management, and modern API architecture.
+<img align="right" width="340" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
-### ✨ Highlights
+### 🧩 Overview
 
-- 🔐 Secure Authentication System
+A production-focused backend ecosystem engineered for:
+
+- 🔐 Secure Authentication Systems
 - ⚡ RESTful API Architecture
 - 🧩 Modular Backend Structure
 - 📊 Database Optimization
 - 👥 Role-Based Access Control
 - 🛡️ Production Safety Practices
 
-### 🔗 Project Link
+### 🏗️ Core Engineering Goals
 
-<p align="center">
+```yaml
+Scalability: High
+Security: Production Ready
+Architecture: Modular
+Performance: Optimized
+Maintainability: Clean Code Driven
+```
+
+<br>
+
+<p align="left">
+
 <a href="https://github.com/yagnikkpatel/hostel-server">
-<img src="https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
+
+<br clear="right"/>
 
 ---
 
+<div align="center">
+
 # 📊 GitHub Universe
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0ea5e9,100:8b5cf6"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -109,15 +260,33 @@ Mindset:
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-puskar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-puskar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=code-puskar&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
+<div align="center">
+
 # 🏆 Competitive Coding Presence
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0ea5e9,100:8b5cf6"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -139,9 +308,25 @@ Mindset:
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=code-puskar&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
+
 ---
 
-# 🌐 Let's Connect
+<div align="center">
+
+# 🌐 Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0ea5e9,100:8b5cf6"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -161,16 +346,9 @@ Mindset:
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-## 💭 “The best systems are invisible —  
-they simply work beautifully.”
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://github.com/code-puskar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 </div>
 
@@ -178,6 +356,20 @@ they simply work beautifully.”
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:0f172a,25:1e293b,50:0ea5e9,75:8b5cf6,100:0f172a"/>
+# 💭 Philosophy
+
+### “The best systems are invisible — they simply work beautifully.”
+
+<br>
+
+<img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:020617,20:0f172a,45:1e293b,70:0ea5e9,100:8b5cf6"/>
 
 </div>
