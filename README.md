@@ -270,7 +270,7 @@ Goal: Scalable Circular Fashion Ecosystem
 
 <p align="left">
 
-<a href="#">
+<a href="https://rewear-it-delta.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-10b981?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -309,7 +309,7 @@ Goal: Intelligent Data Interaction
 
 <p align="left">
 
-<a href="#">
+<a href="https://safexcity.vercel.app/">
 <img src="https://img.shields.io/badge/View_Project-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
