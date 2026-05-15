@@ -1,41 +1,184 @@
-<h1 align="center">Hi 👋, I'm Puskar Debnath</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-puskar&label=Profile%20views&color=0e75b6&style=flat" alt="code-puskar" /> </p>
+# 🚀 Puskar Debnath
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-puskar" alt="code-puskar" /></a> </p>
+### Backend Engineer • AI/ML Enthusiast • Scalable Systems Builder
 
-- 🔭 I’m currently working on [Large scale Hostel Management](https://github.com/yagnikkpatel/hostel-server)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Architectures;AI+%2B+Software+Engineering+Explorer;Open+Source+Contributor;Problem+Solver+%7C+Fast+Learner+%7C+Builder" />
 
-- 👯 I’m looking to collaborate on **Multifunctionality Projects**
+<p align="center">
+  <a href="mailto:puskardebnath14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  
+  <a href="https://linkedin.com/in/puskar-debnath">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
-
-- 💬 Ask me about **Daily Life, CodeChaos**
-
-- 📫 How to reach me **puskardebnath14@gmail.com**
-
-- 📄 Know about my experiences [coming soon...](coming soon...)
-
-- ⚡ Fun fact **I go coding untill the system get tired!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/puskardebn2966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puskardebn2966" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/puskar debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puskar debnath" height="30" width="40" /></a>
-<a href="https://instagram.com/puskar_debnath_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="puskar_debnath_" height="30" width="40" /></a>
-<a href="https://dribbble.com/puskar debnath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="puskar debnath" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/puskardebn2966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puskardebn2966" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/logicslayerxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="logicslayerxd" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/codeburner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="codeburner" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/390019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="390019" height="30" width="40" /></a>
+  <a href="https://github.com/code-puskar">
+    <img src="https://img.shields.io/github/followers/code-puskar?style=for-the-badge&logo=github">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=code-puskar&label=Profile+Views&color=0e75b6&style=flat-square" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-puskar&show_icons=true&locale=en&layout=compact" alt="code-puskar" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code-puskar&show_icons=true&locale=en" alt="code-puskar" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-puskar&" alt="code-puskar" /></p>
+# 💫 About Me
+
+```yaml
+Name: Puskar Debnath
+Location: India 🇮🇳
+Role: Backend Developer & AI/ML Explorer
+Focus:
+  - Scalable Backend Systems
+  - REST APIs & System Design
+  - AI Integrated Applications
+  - Full Stack Development
+  - Open Source Collaboration
+
+Current_Work:
+  - Large Scale Hostel Management System
+  - Production-grade MERN Applications
+  - AI-driven Development Projects
+
+Philosophy:
+  "Build systems that scale, solve real problems,
+   and create impact."
+```
+
+---
+
+# ⚡ What Makes Me Different
+
+✅ Strong problem-solving mindset  
+✅ Fast learner with execution focus  
+✅ Comfortable with production backend architecture  
+✅ Passionate about scalable applications  
+✅ Blend of development + AI engineering skills  
+✅ Team collaboration & clean code mindset  
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+</p>
+
+## ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,flask" />
+</p>
+
+## 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,sass" />
+</p>
+
+## 🗄️ Databases & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,redis,firebase" />
+</p>
+
+## 🧰 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,nginx,graphql,appwrite" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏨 Large Scale Hostel Management System
+> Production-focused hostel management platform with secure authentication, scalable backend architecture, and modern API design.
+
+### Key Features
+- Authentication & Authorization
+- REST API Architecture
+- Database Optimization
+- Role Based Access
+- Secure Backend Practices
+
+🔗 Project:
+[Hostel Management Backend](https://github.com/yagnikkpatel/hostel-server)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-puskar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-puskar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-puskar&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements & Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/logicslayerxd">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="https://www.hackerrank.com/puskardebn2966">
+<img src="https://img.shields.io/badge/HackerRank-5★%20Developer-brightgreen?style=for-the-badge&logo=hackerrank">
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/codeburner">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-darkgreen?style=for-the-badge&logo=geeksforgeeks">
+</a>
+
+<a href="https://www.topcoder.com/members/390019">
+<img src="https://img.shields.io/badge/TopCoder-Competitive%20Programming-blue?style=for-the-badge&logo=topcoder">
+</a>
+
+</div>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/puskar-debnath">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://twitter.com/puskardebn2966">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://instagram.com/puskar_debnath_">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:puskardebnath14@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 “Code. Scale. Innovate. Repeat.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=footer"/>
+
+</div>
