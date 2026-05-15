@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Puskar%20Debnath&fontAlign=50&fontAlignY=38&color=0:020617,15:0f172a,35:1e293b,60:0ea5e9,80:8b5cf6,100:020617&fontColor=ffffff&fontSize=62&animation=fadeIn&desc=Backend%20Engineer%20•%20AI%20Explorer%20•%20System%20Architect&descAlignY=60&descSize=18"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Designing+Scalable+Backend+Systems;Building+Production+Grade+Applications;AI+%2B+Engineering+%2B+Creative+Problem+Solving;Turning+Complexity+Into+Elegant+Systems;Code+Clean.+Scale+Smart.+Build+Impact."/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:020617,20:0f172a,40:1e293b,65:0ea5e9,85:8b5cf6,100:020617&text=Puskar%20Debnath&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20•%20AI%20Explorer%20•%20System%20Architect&descAlignY=60&descSize=20"/>
 
 <br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&lines=Designing+Scalable+Backend+Systems;Building+Production+Grade+Applications;AI+%2B+Engineering+%2B+Creative+Problem+Solving;Transforming+Complexity+Into+Elegant+Systems;Code+Clean.+Scale+Smart.+Build+Impact."/>
+
+<br><br>
 
 <p align="center">
 
 <a href="mailto:puskardebnath14@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/puskar-debnath">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/code-puskar">
@@ -33,8 +35,6 @@
 # 🌌 Digital Identity
 
 </div>
-
-<div align="center">
 
 <table>
 <tr>
@@ -84,11 +84,11 @@ const puskar = {
   architecture: "scalable",
   learning: "continuous",
   mindset: "solution oriented",
-  goal: "build impactful systems"
+  focus: "impact driven engineering"
 };
 ```
 
-> ### 💭 “Code should not only work —  
+> ### 💭 “Code should not only work —
 > ### it should scale, evolve, and inspire.”
 
 </td>
@@ -106,11 +106,8 @@ const puskar = {
 </div>
 
 </td>
-
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -119,6 +116,8 @@ const puskar = {
 # ⚡ Engineering Philosophy
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -197,13 +196,15 @@ Momentum creates innovation.
 
 <div align="center">
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0ea5e9,100:8b5cf6"/>
 
 </div>
 
-## 🏨 Large Scale Hostel Management System
+<br>
+
+# 🏨 Large Scale Hostel Management System
 
 <img align="right" width="340" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
@@ -228,12 +229,127 @@ Performance: Optimized
 Maintainability: Clean Code Driven
 ```
 
-<br>
-
 <p align="left">
 
 <a href="https://github.com/yagnikkpatel/hostel-server">
 <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br clear="right"/>
+
+---
+
+# 👕 ReWear — Sustainable Fashion Exchange Platform
+
+<img align="right" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+### 🌱 Overview
+
+A modern clothing exchange platform focused on sustainability and community-driven fashion reuse.
+
+### ✨ Key Features
+
+- 👤 Role-Based Authentication
+- 🔄 Clothing Swap System
+- 📦 Item Upload & Management
+- 🧾 Request Tracking Dashboard
+- 💚 Sustainable User Experience
+- 📱 Responsive Modern UI
+
+### 🏗️ Architecture Focus
+
+```yaml
+Frontend: React + Tailwind CSS
+State Management: Context API
+Authentication: Local Storage Sessions
+UI Design: Modern Green Theme
+Goal: Scalable Circular Fashion Ecosystem
+```
+
+<p align="left">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-10b981?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br clear="right"/>
+
+---
+
+# 🤖 AI Powered Data Analysis Platform
+
+<img align="right" width="340" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+### 📊 Overview
+
+An intelligent analytics platform integrating AI capabilities with interactive frontend visualization systems.
+
+### ✨ Core Capabilities
+
+- 📈 Dynamic Data Visualization
+- 🧠 AI Assisted Insights
+- ⚡ FastAPI Backend Integration
+- 🌌 Interactive 3D UI Concepts
+- 🔍 Smart Data Interpretation
+- 📊 Dashboard Driven Architecture
+
+### 🏗️ Technical Direction
+
+```yaml
+Frontend: React + Three.js
+Backend: FastAPI
+Focus: AI Visualization
+Architecture: API Driven
+Goal: Intelligent Data Interaction
+```
+
+<p align="left">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-8b5cf6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br clear="right"/>
+
+---
+
+# 🧠 Employee Management System
+
+<img align="right" width="340" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
+
+### 💼 Overview
+
+A professional task and employee management solution with role-based dashboards and workflow tracking.
+
+### ✨ Features
+
+- 👨‍💼 Admin & Employee Dashboards
+- 📋 Task Assignment System
+- 📊 Productivity Tracking
+- 🔐 Authentication & Authorization
+- ⚡ React Context Integration
+- 🧩 Component Driven Architecture
+
+### 🏗️ Development Focus
+
+```yaml
+Frontend: React
+Architecture: Component Modularization
+Authentication: Context API
+Storage: LocalStorage
+Goal: Enterprise Style Workflow Management
+```
+
+<p align="left">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -370,6 +486,6 @@ Maintainability: Clean Code Driven
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:020617,20:0f172a,45:1e293b,70:0ea5e9,100:8b5cf6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=footer&color=0:020617,20:0f172a,45:1e293b,70:0ea5e9,100:8b5cf6"/>
 
 </div>
